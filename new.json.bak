@@ -1,9 +1,0 @@
-{
-	"Name": "Karavaeva Ekaterina Anatolyevna",
-	"Age": null,
-	"Pets": null,
-	"Salary": {
-		"Amount": 450,
-		"Currency": "usd"
-	}
-}
