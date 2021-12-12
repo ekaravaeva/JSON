@@ -1,4 +1,4 @@
-[
+{"skills": [
 	"Composing test cases and bug reports",
 	"Basic Linux commands usage",
 	"API testing (Postman)",
@@ -8,4 +8,4 @@
 	"Working with browser Devtools",
 	"JMeter load testing",
 	"Mobile testing"
-]
+]}
